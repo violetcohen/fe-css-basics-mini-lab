@@ -1,0 +1,17 @@
+.box {
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+}
+
+#one {
+  background-color: red;
+}
+
+#two {
+  background-color: blue;
+}
+
+#three {
+  background-color: green;
+}
