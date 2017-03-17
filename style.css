@@ -1,4 +1,9 @@
-
+p {
+  font-size: 20px;
+}
+  #blueParagraph {
+  background-color: blue;
+}
 .box {
   width: 100px;
   height: 100px;
@@ -8,11 +13,52 @@
 #one {
   background-color: red;
 }
+#one:hover {
+  background-color: blue;
+}
 
 #two {
   background-color: blue;
 }
+#two:hover {
+  border-radius: 50%;
+}
+
+
 
 #three {
   background-color: green;
+}
+#three:hover {
+  /*background-color: red;*/
+ background: url("http://pngimg.com/uploads/chicken/chicken_PNG2160.png");
+}
+#firstParagraph{
+  background-color: blue;
+  color:white;
+}
+#secondParagraph{
+  font-family: cursive;
+  
+}
+body{
+  background-image: url("https://pbs.twimg.com/media/CdCLAAsWoAEEP16.jpg")
+  
+}
+  #fourthparagraph {
+  float: right; 
+}
+
+.even {
+ background-color: #891464; 
+}
+#sixthparagraph:hover{
+  color: orange;
+  font-family: monospace;
+}
+#seventhParagraph{
+  
+}
+#eigthParagraph{
+  
 }
